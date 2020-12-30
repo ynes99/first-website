@@ -1,0 +1,78 @@
+body {
+  background-color:#48494a;
+  color:lightgrey;
+  size:
+}
+h1{
+  text-align : center;
+   color :violet;
+  text-shadow:1px 1px white;
+}
+#prpts{
+  text-shadow:1px 1px teal;}
+.songs{
+  border-style:inset;
+  border-color:gray;
+}
+.artists{
+  border-style:inset;
+  border-color:gray;
+}
+.genre{
+  border-style:inset;
+  border-color:gray;
+}
+#tableau{
+  text-align : center;
+  border-style :groove;
+  border-color : gray;
+  margin-left:auto;
+  margin-right:auto;
+}
+#tab{
+  text-align :center;
+}
+#tabimg{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.gallery {
+  margin: 20px;
+  border: 5px solid gray;
+  float: center;
+  border-style:outset;
+  width: 400px;
+}
+
+.gallery:hover {
+  border: 5px solid #777;
+  border-style:inset;
+}
+
+.gallery img {
+  width: 100%;
+  height: 250px;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+.gg{
+  border-style:ridge;
+  border-color:grey;
+}
+
+.list{
+   list-style-type: square;
+}
+#a{
+  color:pink;
+}
+#a:hover{
+  color:lightblue;
+}
+h4{
+  color:violet;
+}
